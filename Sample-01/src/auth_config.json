@@ -1,5 +1,5 @@
 {
   "domain": "sm-admin-zebra",
   "clientId": "s6iXSS7ebh4zU118Q340s6dCzt16JAw6",
-  "audience": "{API_IDENTIFIER}"
+  "appOrigin": "pavi-5.netlify.app",
 }
