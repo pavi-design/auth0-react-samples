@@ -2,5 +2,5 @@
   "domain": "sm-admin-zebra.auth0.com",
   "clientId": "s6iXSS7ebh4zU118Q340s6dCzt16JAw6",
   "audience": "https://quota.test.sm-admin-zebra",
-  "hello", "hello"
+  "hello": "hello"
 }
