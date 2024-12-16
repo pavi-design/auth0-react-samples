@@ -1,5 +1,5 @@
 {
-  "domain": "sm-admin-zebra",
+  "domain": "sm-admin-zebra.auth0.com",
   "clientId": "s6iXSS7ebh4zU118Q340s6dCzt16JAw6",
-  "appOrigin": "pavi-5.netlify.app",
+  "audience": "https://quota.test.sm-admin-zebra"
 }
